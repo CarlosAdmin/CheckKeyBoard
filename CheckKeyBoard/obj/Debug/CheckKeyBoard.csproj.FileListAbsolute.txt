@@ -1,0 +1,9 @@
+E:\DemoSpce\CheckKeyBoard\CheckKeyBoard\bin\Debug\CheckKeyBoard.exe.config
+E:\DemoSpce\CheckKeyBoard\CheckKeyBoard\bin\Debug\CheckKeyBoard.exe
+E:\DemoSpce\CheckKeyBoard\CheckKeyBoard\bin\Debug\CheckKeyBoard.pdb
+E:\DemoSpce\CheckKeyBoard\CheckKeyBoard\obj\Debug\CheckKeyBoard.csprojResolveAssemblyReference.cache
+E:\DemoSpce\CheckKeyBoard\CheckKeyBoard\obj\Debug\CheckKeyBoard.Form1.resources
+E:\DemoSpce\CheckKeyBoard\CheckKeyBoard\obj\Debug\CheckKeyBoard.Properties.Resources.resources
+E:\DemoSpce\CheckKeyBoard\CheckKeyBoard\obj\Debug\CheckKeyBoard.csproj.GenerateResource.Cache
+E:\DemoSpce\CheckKeyBoard\CheckKeyBoard\obj\Debug\CheckKeyBoard.exe
+E:\DemoSpce\CheckKeyBoard\CheckKeyBoard\obj\Debug\CheckKeyBoard.pdb
